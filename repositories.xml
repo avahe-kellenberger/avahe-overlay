@@ -1,0 +1,12 @@
+<repositories encoding="unicode" version="1.1">
+  <repo priority="10" quality="experimental">
+    <name>avahe-overlay</name>
+    <description>Avahe's Gentoo Overlay</description>
+    <owner>
+      <name>Avahe Kellenberger</name>
+      <email>avahe@protonmail.ch</email>
+    </owner>
+    <source type="git">https://github.com/avahe-kellenberger/avahe-overlay.git</source>
+  </repo>
+</repositories>
+
